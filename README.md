@@ -10,6 +10,6 @@ Lately, I've been exploring AI-assisted development and agentic workflows, findi
 
 Outside of code, you'll probably find me mixing music, catching a live show, or playing games! 🎧
 
-**Let's connect!**
+#### Let’s connect!
 
-[LinkedIn](https://www.linkedin.com/in/jeffreyye1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffreyye1)
